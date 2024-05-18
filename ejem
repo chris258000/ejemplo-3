@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+   
+    <title>Vault-tec</title>
+</head>
+<body>
+    <header>
+        <h1 id="titulo">Vault-tec</h1>
+    </header>
+    <div>
+        <p><h2>Que es Vault-tec</h2></p>
+    </div>
+    <section>
+        <article class="post">       
+         <p><h3><span style="color: rgb(34, 5, 150);">Vault-tec corporation</span> es una corporación que fue contratada por el gobierno de los Estados Unidos antes de la Gran Guerra para diseñar y construir el sistema de Refugios.
+
+            Su sede se encontraba en el centro de Washington DC. El primer Refugio fue construido debajo de Los Angeles,
+             y muy pronto muchos otros fueron construidos por todo el país. Todos los Refugios son muy parecidos,
+             pero algunos tienen diferentes diseños, como los de la Costa Oeste y los del área de DC. </h3></p>
+         <p><h4>esta es una de las empresas mas reconocidas de Estados Unidos al ser una de las empresas que 
+            crearon 120 Refugios</h4></p>
+        </article>
+        <article class="post">
+            <h5>Vault-tec es reconocida por su increible mascota llamada "vault boy" que es
+                uno de los personajes mas emblematicos de la empresa y que se usa para 
+                ser una ayuda para el superviviente comun
+            </h5>
+            <p>su creador es Leonard Boyarsky</p>
+           </article>
+           <article class="post">
+            <p>Leonard Boyarsky se inspiro de su actor favorito para hacer al "Vault boy"</p>
+           </article>
+    </section>
+    <footer>
+        <br>
+        <p>Vault-tec 2054</p>
+    </footer>
+</body>
+</html>
